@@ -1,4 +1,4 @@
-const TestForm = () => {
+const Test = () => {
   return (
     <>
       <div className="container mx-auto" style={{'max-width': '1000px'}}>
@@ -15,4 +15,4 @@ const TestForm = () => {
   );
 };
 
-export default TestForm;
+export default Test;
